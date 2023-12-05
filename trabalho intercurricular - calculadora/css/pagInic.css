@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #96cce9;
+}
+
+.nav{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', 
+    sans-serif;
+}
+
+header{
+    background-color: #164F69;
+}
+
+.imglogo{
+    width: 522px;
+    height: 89px;
+    flex-shrink: 0;
+}
+
+.seçao{
+    display: flex;
+    margin-left: 1100px;
+}
+
+
+.calculadorabotao{
+    width: 100px; 
+    height: auto; 
+    background: #74A8C6; 
+    border-radius: 100px; 
+    border: 1px black solid;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+    'Helvetica Neue', sans-serif;
+    text-decoration: none; 
+    color: #041015;
+    font-weight: bold;
+}
+
+.sobre{
+    width: 100px; 
+    height: auto; 
+    background: #74A8C6; 
+    border-radius: 100px; 
+    border: 1px black solid;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+    'Helvetica Neue', sans-serif;
+    text-decoration: none; 
+    color: #041015;
+    font-weight: bold;
+}
+
+.slogan{
+    color: #6CBBE0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: normal;
+    text-align: right;
+}
+
+.img2{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.sobrereal{
+    background-color: #164F69;  
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+footer{
+    background-color: #041015;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
